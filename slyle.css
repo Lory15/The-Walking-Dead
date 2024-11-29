@@ -18,3 +18,10 @@ header{
     border-bottom: 3px solid;
     padding: 20px;
 }
+h1{
+    font-size: 35px;
+}
+ .chamada-texto{
+    margin-right: 5px;
+ }
+ 
